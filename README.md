@@ -1,7 +1,7 @@
 - 🦋 Hi, I’m Yana! 🐞
 - ❤️ I’m interested in computer hardware, high level programming, cooking and video games (mainly late 1990s to early 2010s.)
 - 🌱 I’m currently learning Python, Bash, Linux/Unix and Docker.
-- 🤝 I’m looking to collaborate on anything related to AI/ML and Data science :)
+- 🤝 I’m looking to collaborate on anything related to AI/ML,Datascience and DevOps! :)
 - 🕊️ How to reach me: You may shoot me an email or dm me over any of my listed socials !
 
 <!---
